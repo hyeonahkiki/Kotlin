@@ -6,4 +6,5 @@ fun main(args:Array<String>): Unit{
     // $ 그대로 출력하고 싶으면 \를 넣어주면 된다.
     println("a의 값은 :$aa")
     println("b의 값은 : $bb")
+    println("bb의 값은 \$bb입니다.")
 }

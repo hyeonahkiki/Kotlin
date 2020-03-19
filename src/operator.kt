@@ -13,10 +13,10 @@ fun main(args: Array<String>):Unit{
     //더블로 바꿀 수 있음
     // 코틀린은 타입체크가 엄격하다
     val num4: Double = num.toDouble()/num2 + 0.3
-    println(num)
-    println(num2)
-    println(num3)
-    println(num4)
+//    println(num)
+//    println(num2)
+//    println(num3)
+//    println(num4)
 
     //증감 연산자(++, --)
     var aa = 10

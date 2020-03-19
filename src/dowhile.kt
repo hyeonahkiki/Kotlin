@@ -11,5 +11,5 @@ fun main(args:Array<String>):Unit{
         println("먼저실행되는 코드")
     //실행된 다음 실행 조건이 참이면 위로 올라가서 실행
     // 거짓이면 빠져나오게 된다.
-    }while(a ==0)
+    }while(a ==1)
 }

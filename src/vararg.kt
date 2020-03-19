@@ -36,5 +36,4 @@ fun getTotal(vararg number:Int): Int{
 
    fun myFunc(vararg numbers: Int, something: Char): Int // 오류발생
     fun myFunc(vararg numbers: Int, something = Char타입의 인수): Int //가능
-
  */
