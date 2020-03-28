@@ -12,6 +12,7 @@ class 클래스명 constructor(생성자의 매개변수 선언){...}
  */
 class Human constructor(name: String, age:Int)
 {
+    // name, age : 프로퍼티
     val name:String
     val age:Int
 
