@@ -31,7 +31,7 @@ fun div(a:Int, b:Int):Int
 {
     if(b==0)
         // 예외를 던진다 => 예외를 발생시킨다.
-        // div-> callDiv->main(시스템에서 처리)
+        // div-> callDiv->main(시스템에서 처리t)
         throw Exception("0으로 나눌 수 없습니다.")
     return a/b
 }
