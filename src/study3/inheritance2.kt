@@ -25,5 +25,5 @@ fun main(args:Array<String>):Unit
             println("ParentClass를 오버라이딩한 함수")
         }
     }
-    childClass.output()
+    childClass.output()  
 }
